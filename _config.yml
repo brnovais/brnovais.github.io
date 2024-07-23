@@ -1,0 +1,9 @@
+url: "https://brnovais.github.io"
+baseurl: "/"
+title: "brnovais"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
